@@ -6,6 +6,7 @@ print("This is a print statement.")
 ```
 
 We will be learning about functions in the upcoming chapters.
+
 The resulted output will be:
 
 **OUTPUT**
@@ -14,4 +15,5 @@ This is a print statement.
 ```
 
 An **Output** is the information a program produces after processing the input given by the running code.
+
 **Outputs** are shown in the output section of the IDE.
