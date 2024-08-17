@@ -12,4 +12,4 @@ For that, we need to understand the meaning of a `Program` , `Programmer` and `P
 
 Code , Coder , Coding and Program , Programmer , Programming are just the synonyms of eachother.
 
-We use an `IDE` (Integrated Development Environment) also known as a `Code Editor` in order to write any program. A code editor helps programmers to write, edit, and navigate code more efficiently, which can reduce errors and speed up the development of an program.
+We use an `IDE` (Integrated Development Environment) also known as a `Code Editor` in order to write any program. A code editor helps programmers to write, edit, and navigate code more efficiently, which can reduce errors and speed up the development of an program. Microsoft VS Code is one of the best example of an IDE.
