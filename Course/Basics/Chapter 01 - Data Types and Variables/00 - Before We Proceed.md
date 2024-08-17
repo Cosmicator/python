@@ -1,4 +1,4 @@
-The `Course` is divied into `Chapters` which is furter divided into `Sections` as you can see in the files.
+The `Course` is divied into `Basics` which is divied into `Chapters` which is furter divided into `Sections` as you can see in the files.
 
 The `Course` also has `Concepts` which is a list of all the topics or concepts covered in this course.
 
