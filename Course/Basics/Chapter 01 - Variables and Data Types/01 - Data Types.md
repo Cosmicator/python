@@ -8,4 +8,6 @@ print("This is a print statement.")
 We will be learning about functions in the upcoming chapters.
 The resulted output will be:
 
-```This is a print statement.```
+```
+This is a print statement.
+```
