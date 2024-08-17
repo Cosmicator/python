@@ -1,6 +1,8 @@
 # print()
 
 Before we learn about datatypes and variables, we first need to learn about `print()` which is the most basic **built in function** used to print values in the **output**. An example of print() function can be seen here:
+
+**CODE**
 ```python
 print("This is a print statement.")
 ```
