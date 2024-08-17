@@ -18,4 +18,4 @@ This is a print statement.
 
 An **Output** is the information a program produces after processing the input given by the running code.
 
-**Outputs** are usually shown in the output area of the IDE.
+**Outputs** are usually shown in the output area of an IDE.
