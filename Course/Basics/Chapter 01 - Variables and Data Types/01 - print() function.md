@@ -1,6 +1,6 @@
 # print()
 
-Before we learn about datatypes, we first need to learn about `print()` which is the most basic **built in function** used to print values in the **output**. An example of print() function can be seen here:
+Before we learn about datatypes and variables, we first need to learn about `print()` which is the most basic **built in function** used to print values in the **output**. An example of print() function can be seen here:
 ```python
 print("This is a print statement.")
 ```
@@ -16,4 +16,4 @@ This is a print statement.
 
 An **Output** is the information a program produces after processing the input given by the running code.
 
-**Outputs** are shown in the output section of the IDE.
+**Outputs** are usually shown in the output section of the IDE.
