@@ -1,6 +1,8 @@
 # Data Types
 
-Data Type specifies the type of data or a value that a variable can hold. Hence the name "Data Type". Some examples of datatypes are: String, Integer and Boolean
+Data Type specifies the type of data or a value that a variable can hold. Hence the name "Data Type". 
+
+Some examples of datatypes are: String, Integer, Float and Boolean
 
 - # String
 
@@ -59,7 +61,7 @@ But the difference here is that the number 100000 is a string value and not an i
 
 Now, why do we need an **integer datatype** as we have **string datatype** which can even store integers. 
 
-It is because integer datatype can be used to do calculations which is not possible with a string datatype. For example:
+It is because integer datatype can be used to do numeric calculations which is not possible with a string datatype. For example:
 
 **CODE**
 ```python
@@ -84,3 +86,8 @@ print("5"+"5")
 5+5
 55
 ```
+
+As you can see that string datatype is unable to perform any numeric calculations while an integer datatype can perform numeric calculations.
+
+- # Boolean
+It is used
