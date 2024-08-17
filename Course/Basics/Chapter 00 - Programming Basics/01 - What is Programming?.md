@@ -10,6 +10,6 @@ For that, we need to understand the meaning of a `Program` , `Programmer` and `P
 
 - `Programming` or `Coding` basically means the process of creating instructions for a computer to execute.
 
-`Code` , `Coder` and `Coding` are just the synonyms of `Program` , `Programmer` and `Programming`.
+Code , Coder and Coding are just the synonyms of Program , Programmer and Programming.
 
 We use an `IDE` (Integrated Development Environment) also known as a `Code Editor` in order to write any program. A code editor helps programmers to write, edit, and navigate code more efficiently, which can reduce errors and speed up the development of an program.
