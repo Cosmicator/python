@@ -14,3 +14,4 @@ This is a print statement.
 ```
 
 An **Output** is the information a program produces after processing the input given by the running code.
+**Outputs** are shown in the output section of the IDE.
