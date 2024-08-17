@@ -9,3 +9,5 @@ For that, we need to understand the meaning of a `Program` , `Programmer` and `P
 - A Programmer is one who writes the program
 
 - Programming basically means the process of creating instructions for a computer to execute.
+
+In the same way `Code` , `Coder` and `Coding` is just the synonyms of a `Program` , `Programmer` and `Programming`.
